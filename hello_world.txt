@@ -1,3 +1,7 @@
 I am adding some text, then I save and stage the file.
 
-I will use "git add ." to add all files in the current directory (and all subsequent directories) to the staging area. 
+I will use "git add ." to add all files in the current directory (and all subsequent directories) to the staging area.
+
+NOTE: 
+to add to staging area: git add <FILENAME>
+to commit (everything): git commit -m "commit message"
